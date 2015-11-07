@@ -1,0 +1,14 @@
+{
+  "name": "grunt-phantom-jasmine",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-jasmine": "~0.6.1",
+    "grunt": "~0.4.2"
+  }
+}

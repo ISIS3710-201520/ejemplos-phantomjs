@@ -1,0 +1,17 @@
+{
+  "name": "grunt-phantom-jasmine",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine-jquery": "~2.0.2",
+    "jquery": "~2.1.0"
+  }
+}
